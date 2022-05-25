@@ -1,5 +1,5 @@
 package Strategy_Pattern.Class;
-import Strategy_Pattern.Behaviors.FlyBehavior;
+import Strategy_Pattern.Interface.FlyBehavior;
 
 public class FlyRocektPowerd implements FlyBehavior {
     public void fly(){

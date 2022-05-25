@@ -1,6 +1,6 @@
 package Strategy_Pattern.Abstract;
-import Strategy_Pattern.Behaviors.FlyBehavior;
-import Strategy_Pattern.Behaviors.QuackBehavior;
+import Strategy_Pattern.Interface.FlyBehavior;
+import Strategy_Pattern.Interface.QuackBehavior;
 
 public abstract class Duck {
     public FlyBehavior fly;

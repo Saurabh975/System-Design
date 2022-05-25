@@ -1,4 +1,4 @@
-package Strategy_Pattern.Behaviors;
+package Strategy_Pattern.Interface;
 
 public interface QuackBehavior {
     void quack();

@@ -1,6 +1,6 @@
 package Strategy_Pattern.Class;
 
-import Strategy_Pattern.Behaviors.QuackBehavior;
+import Strategy_Pattern.Interface.QuackBehavior;
 
 public class Squeal implements QuackBehavior {
     public void quack(){

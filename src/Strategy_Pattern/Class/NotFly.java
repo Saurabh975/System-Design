@@ -1,6 +1,6 @@
 package Strategy_Pattern.Class;
 
-import Strategy_Pattern.Behaviors.FlyBehavior;
+import Strategy_Pattern.Interface.FlyBehavior;
 
 public class NotFly implements FlyBehavior {
     public void fly(){
