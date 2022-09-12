@@ -1,6 +1,6 @@
-package TheoryAndExcercise.AdapterPattern.Concrete_Components;
+package TheoryAndExcercise.Adapter_Pattern.Concrete_Components;
 
-import TheoryAndExcercise.AdapterPattern.Interface.ToJSON;
+import TheoryAndExcercise.Adapter_Pattern.Interface.ToJSON;
 
 public class JSONConvertor implements ToJSON {
     private String data;

@@ -1,6 +1,6 @@
-package TheoryAndExcercise.AdapterPattern.Concrete_Components;
+package TheoryAndExcercise.Adapter_Pattern.Concrete_Components;
 
-import TheoryAndExcercise.AdapterPattern.Interface.ToXML;
+import TheoryAndExcercise.Adapter_Pattern.Interface.ToXML;
 
 public class XMLConvertor implements ToXML {
 

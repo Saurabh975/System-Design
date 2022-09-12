@@ -1,6 +1,6 @@
-package TheoryAndExcercise.AdapterPattern.Concrete_Components;
+package TheoryAndExcercise.Adapter_Pattern.Concrete_Components;
 
-import TheoryAndExcercise.AdapterPattern.Interface.ToCSV;
+import TheoryAndExcercise.Adapter_Pattern.Interface.ToCSV;
 
 public class DefaultConvertor implements ToCSV {
     private String data;

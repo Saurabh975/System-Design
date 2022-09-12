@@ -1,4 +1,4 @@
-package TheoryAndExcercise.AdapterPattern.Concrete_Components;
+package TheoryAndExcercise.Adapter_Pattern.Concrete_Components;
 
 public class AdapterConvertor extends DefaultConvertor {
 

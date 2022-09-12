@@ -1,6 +1,6 @@
-package TheoryAndExcercise.AdapterPattern.MainRunner;
+package TheoryAndExcercise.Adapter_Pattern.MainRunner;
 
-import TheoryAndExcercise.AdapterPattern.Concrete_Components.AdapterConvertor;
+import TheoryAndExcercise.Adapter_Pattern.Concrete_Components.AdapterConvertor;
 
 public class MainRunner {
     public static void main(String[] args) {
